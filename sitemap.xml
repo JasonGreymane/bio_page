@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/JasonGreymane/bio_page/</loc>
-         <lastmod>2025-09-11</lastmod>
+         <loc>https://jasongreymane.com/</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://jasongreymane.com/thinking/</loc>
+         <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+         <loc>https://jasongreymane.com/thinking/carbon/</loc>
+         <lastmod>2026-01-12</lastmod>
     </url>
 </urlset>
