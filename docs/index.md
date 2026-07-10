@@ -1,18 +1,22 @@
 ---
 
-I am a systems thinker working at the intersection of building physics, sustainability, and human experience, combining practice and research to inform better decisions in the built environment.
+I am a Melbourne-based engineering director working in building physics and sustainability, and a doctoral researcher in architecture.
 
-Based in Melbourne, Australia, my work blends consultancy, applied research, and academic inquiry. I practise as both a professional engineering director and a doctoral researcher in architecture, with engineering work focused on building physics and sustainable design, and research exploring human–nature connection, biophilia, and biophilic design.
+My work focuses on how buildings perform, how people experience them, and how technical decisions shape environmental, social, commercial, and long-term project outcomes. In professional practice, I work across building physics, sustainable design, and performance risk. In research, I study human-nature connection, biophilia, and the role of nature in built environment design.
 
-This page contains information and links to both my professional and academic work. Feel free to contact me for collaboration, talks, presentations, or advisory roles.
+This page brings together links to my professional and academic work. I am open to collaboration, talks, presentations, and advisory roles.
 
-My surname has recently changed - I'm currently in the process of updating my various online identities. Much of my work was published under my previous name, Jason Gaekwad.
+My surname has recently changed, and I am currently updating my various online identities. Much of my earlier work was published under my previous name, Jason Gaekwad.
+
+# Current Focus: Building performance as project and asset risk
+
+I’m currently exploring how technical issues in façades and building physics translate into commercial, planning, operational, and reputational risks for developers, investors, and project teams. Recent areas of focus include reflected glare, condensation, airtightness, overheating, and climate resilience.
 
 ---
 
 # Selected Thinking
 
-Short pieces on sustainability, and human experience, focusing on why technical decisions matter in practice.
+Short pieces on sustainability and human experience, focusing on why technical decisions matter in practice.
 
 ## [Why upfront carbon should drive early project decisions](thinking/carbon.md)
 
@@ -21,13 +25,13 @@ Short pieces on sustainability, and human experience, focusing on why technical 
 
 # Professional Activities
 
-I am a professional consultant specialising in Building Physics and Sustainability. I thrive on challenging conventions and pushing project performance beyond standard practice.
+I am a professional consultant and chartered engineer specialising in building physics, sustainability, and performance risk. I currently practice as a Technical Director at [Inhabit](https://inhabitgroup.com/), based in Melbourne, Australia.
 
-I’m interested in work where engineering decisions have consequences beyond compliance, influencing how people experience buildings and how projects contribute to environmental and social outcomes. I see engineering as a tool for shaping the future, including how assets perform over their lifecycle, manage risk, and create durable value for owners, investors, and users.
+My work focuses on projects where engineering decisions have consequences beyond compliance, influencing how buildings perform, how people experience them, and how assets manage risk and create long-term value for owners, investors, and users.
 
-Much of my work involves helping clients navigate complex decisions where there is no single “right” answer. Rather than focusing on individual metrics in isolation, I take a systems view to understand how design choices interact across a range of technical and non-technical domains. I currently practice as a Technical Director at [Inhabit](https://inhabitgroup.com/), based in Melbourne, Australia.
+Much of my work involves helping clients navigate complex design and performance decisions where there is no single “right” answer. Rather than treating metrics in isolation, I take a systems view to understand how design choices interact across technical performance, commercial value, regulatory requirements, occupant experience, environmental outcomes, and long-term resilience.
 
-Some of my most memorable and iconic projects are listed below -- each image links to a website with more about the project.
+Some of my most memorable and iconic projects are listed below. Each image links to more information about the project.
 
 ## Key Projects
 
@@ -48,7 +52,7 @@ Some of my most memorable and iconic projects are listed below -- each image lin
 [![Woodside Building for Technology and Design](https://grimshaw.global/assets/uploads/16103-n126.jpg)](https://grimshaw.global/projects/education-and-science/monash-university-woodside-building-for-technology-and-design/)
 &copy; Grimshaw
 
-### [Berninneit Cultural and Community Centre, Victoria, Australia](https://inhabitgroup.com/wp-content/uploads/2024/06/Cowes-Cultural-Centre2x900.jpg)](https://www.egis-group.com/projects/berninneit-cowes-cultural-centre)
+### [Berninneit Cultural and Community Centre, Victoria, Australia](https://www.egis-group.com/projects/berninneit-cowes-cultural-centre)
 [![Berninneit](https://inhabitgroup.com/wp-content/uploads/2024/06/Cowes-Cultural-Centre2x900.jpg)](https://www.egis-group.com/projects/berninneit-cowes-cultural-centre)
 &copy; Victor Vieaux
 
@@ -100,9 +104,9 @@ Proceedings of the 13th Australian Acoustical Society Conference, Victor Harbour
 
 # Academic Activities
 
-In addition to my consulting work, I am also a PhD candidate within the [School of Architecture and Built Environment](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-architecture-and-built-environment) at [Deakin University](https://www.deakin.edu.au/) in Geelong, Australia. My research investigates how different people experience natural and built environments, with implications for human well-being, built environment design practice, and policy frameworks. Further information on my research is available [here](https://linktr.ee/humanenvironments).
+In addition to my consulting work, I am also a PhD candidate within the [School of Architecture and Built Environment](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-architecture-and-built-environment) at [Deakin University](https://www.deakin.edu.au/) in Geelong, Australia. My research investigates how people experience and respond to natural and built environments, with implications for human well-being, built environment design practice, and policy. Further information on my research is available [here](https://linktr.ee/humanenvironments).
 
-Please have a look at my [GitHub](https://github.com/JasonGreymane) for work-in-progress Python projects related to my academic work, including packages for conducting meta-analyses and analysing data from the Tobii Pro Glasses 3 eye tracking headset.
+My [GitHub](https://github.com/JasonGreymane) includes work-in-progress Python projects related to my academic work, including packages for conducting meta-analyses and analysing data from the Tobii Pro Glasses 3 eye tracking headset.
 
 ## Academic Publications
 
@@ -120,4 +124,4 @@ Frontiers in Psychology, 2022
 
 # Personal Interests
 
-Outside of my professional and academic commitments, I spend as much time as I can outdoors, hiking, rock climbing, and SCUBA diving — both exploring new places and increasing my understanding of the familiar. I also play guitar and love going to live music events, especially when they bring diverse individuals together in vibrant, creative spaces.
+Outside of my professional and academic commitments, I spend as much time as I can outdoors, hiking, rock climbing, and SCUBA diving - both exploring new places and increasing my understanding of the familiar. I also play guitar and love going to live music events, especially when they bring diverse individuals together in vibrant, creative spaces.
