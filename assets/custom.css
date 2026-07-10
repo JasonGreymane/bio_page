@@ -1,0 +1,31 @@
+:root {
+  --base: #f4f1ec;
+  --mantle: #ebe6df;
+  --crust: #d8d0c5;
+  --overlay: #9a9690;
+  --text: #343233;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --base: #343233;
+    --mantle: #373536;
+    --crust: #3E3C3D;
+    --overlay: #646461;
+    --text: #ffffff;
+    --hltext: #343233;
+
+    --primary-text: var(--text);
+    --secondary-text: var(--text);
+    --tertiary-text: var(--text);
+    --base-text: var(--text);
+    --mantle-text: var(--text);
+    --crust-text: var(--text);
+    --overlay-text: var(--hltext);
+    --footer-text: var(--text);
+  }
+}
+
+#share-btn {
+  display: none;
+}
