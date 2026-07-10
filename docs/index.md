@@ -1,22 +1,33 @@
 ---
 
-# Who am I?
+I am a systems thinker working at the intersection of building physics, sustainability, and human experience, combining practice and research to inform better decisions in the built environment.
 
-I am a practising professional engineer and architectural researcher based in Melbourne, Australia. My engineering work covers the fields of building physics and sustainable design, and my research work covers human-nature connection, biophilia, and biophilic design.
+Based in Melbourne, Australia, my work blends consultancy, applied research, and academic inquiry. I practise as both a professional engineering director and a doctoral researcher in architecture, with engineering work focused on building physics and sustainable design, and research exploring human–nature connection, biophilia, and biophilic design.
 
-This page contains information and links to both my professional and academic work.
+This page contains information and links to both my professional and academic work. Feel free to contact me for collaboration, talks, presentations, or advisory roles.
+
+My surname has recently changed - I'm currently in the process of updating my various online identities. Much of my work was published under my previous name, Jason Gaekwad.
 
 ---
 
+# Selected Thinking
+
+Short pieces on sustainability, and human experience, focusing on why technical decisions matter in practice.
+
+## [Why upfront carbon should drive early project decisions](thinking/carbon.md)
+
+## [Nature as urban infrastructure for mental health](thinking/nature.md)
+
+
 # Professional Activities
 
-I’m a design consultant specialising in Building Physics and Sustainability. I thrive on challenging conventions and pushing project performance beyond standard practice.
+I am a professional consultant specialising in Building Physics and Sustainability. I thrive on challenging conventions and pushing project performance beyond standard practice.
 
-My knowledge spans a wide range of topics, including energy, heat, light, wind, carbon, and comfort, drawing on global project experience and leadership of multidisciplinary teams. Alongside traditional design and construction roles, I’ve contributed to regulation development, R&D, and expert witness work, bringing a systems-level perspective to complex challenges.
+I’m interested in work where engineering decisions have consequences beyond compliance, influencing how people experience buildings and how projects contribute to environmental and social outcomes. I see engineering as a tool for shaping the future, including how assets perform over their lifecycle, manage risk, and create durable value for owners, investors, and users.
 
-I currently practice as a Technical Director at [Inhabit](https://inhabitgroup.com/), based in Melbourne, Australia. My work spans a range of geographies and project types, however I particularly enjoy projects which improve quality of life for a wide range of users, such as public buildings, and utilise high-performance construction techniques, such as the ultra low energy [Passivhaus](https://www.passivhausassociation.com.au/) standard.
+Much of my work involves helping clients navigate complex decisions where there is no single “right” answer. Rather than focusing on individual metrics in isolation, I take a systems view to understand how design choices interact across a range of technical and non-technical domains. I currently practice as a Technical Director at [Inhabit](https://inhabitgroup.com/), based in Melbourne, Australia.
 
-Some of my most memorable and iconic projects are listed below, along with some of my professional publications.
+Some of my most memorable and iconic projects are listed below -- each image links to a website with more about the project.
 
 ## Key Projects
 
@@ -29,16 +40,16 @@ Some of my most memorable and iconic projects are listed below, along with some 
 &copy; Architectus
 
 
-### [New Performing Arts Venue, Brisbane, Australia](https://blightrayner.com.au/portfolio_page/new-performing-arts-venue/)
+### [Glasshouse Theatre (New Performing Arts Venue), Brisbane, Australia](https://blightrayner.com.au/portfolio_page/new-performing-arts-venue/)
 [![New Performing Arts Venue](https://blightrayner.com.au/wp-content/uploads/2019/05/npav-3.jpg)](https://blightrayner.com.au/portfolio_page/new-performing-arts-venue/)
 &copy; Blight Rayner Architects 
 
 ### [Woodside Building for Technology and Design, Monash University, Melbourne, Australia](https://grimshaw.global/projects/education-and-science/monash-university-woodside-building-for-technology-and-design/)
-[![Woodside Building for Technology and Design](https://grimshaw.global/assets/lib/2023/04/26/16103_N126.jpg)](https://grimshaw.global/projects/education-and-science/monash-university-woodside-building-for-technology-and-design/)
+[![Woodside Building for Technology and Design](https://grimshaw.global/assets/uploads/16103-n126.jpg)](https://grimshaw.global/projects/education-and-science/monash-university-woodside-building-for-technology-and-design/)
 &copy; Grimshaw
 
-### [Berninneit Cultural and Community Centre, Victoria, Australia](https://jcba.com.au/projects/berninneit-cultural-and-community-hub)
-[![Beninneit](https://inhabitgroup.com/wp-content/uploads/2024/06/Cowes-Cultural-Centre2x900.jpg)](https://jcba.com.au/projects/berninneit-cultural-and-community-hub)
+### [Berninneit Cultural and Community Centre, Victoria, Australia](https://inhabitgroup.com/wp-content/uploads/2024/06/Cowes-Cultural-Centre2x900.jpg)](https://www.egis-group.com/projects/berninneit-cowes-cultural-centre)
+[![Berninneit](https://inhabitgroup.com/wp-content/uploads/2024/06/Cowes-Cultural-Centre2x900.jpg)](https://www.egis-group.com/projects/berninneit-cowes-cultural-centre)
 &copy; Victor Vieaux
 
 ### [Clifton Hill Primary School, Melbourne, Australia](https://jcba.com.au/projects/clifton-hill-primary-school)
@@ -51,7 +62,7 @@ Some of my most memorable and iconic projects are listed below, along with some 
 
 ## Professional Publications
 
-### [Passivhaus (Passive House)in Australian Climates](https://www.researchgate.net/publication/343151756_Passivhaus_Passive_House_in_Australian_Climates)
+### [Passivhaus (Passive House) in Australian Climates](https://www.researchgate.net/publication/343151756_Passivhaus_Passive_House_in_Australian_Climates)
 Ecolibrium, 2019
 
 ### [Carbon Monoxide Dispersion in Enclosed Car Parks: Pollutant Source Modelling Methods](http://dx.doi.org/10.26868/25222708.2017.168)
@@ -75,19 +86,23 @@ Proceedings of the 13th Australian Acoustical Society Conference, Victor Harbour
 
 4. [Reducing Embodied Carbon in Buildings](https://www.linkedin.com/pulse/reducing-embodied-carbon-buildings-jason-gaekwad)
 
+5. [Design Like It’s 2035: Case Studies in Reducing Upfront Carbon](https://www.linkedin.com/pulse/design-like-its-2035-case-studies-reducing-upfront-jason-tyujc)
+
+**Condensation & Mould Series**
+
+1. [Understanding Mould & Condensation in Building Design](https://www.linkedin.com/pulse/understanding-mould-condensation-building-design-greymane-gaekwad--unj4c)
+
+2. [The Hidden Risks in Certain Building Projects: Mould and Condensation](https://www.linkedin.com/pulse/hidden-risks-certain-building-projects-mould-jason-greymane-gaekwad--k2kic)
+
+3. [Condensation Control: Lessons from High-Risk Apartments](https://www.linkedin.com/pulse/condensation-control-lessons-from-high-risk-jason-egutc)
+
 ---
 
 # Academic Activities
 
-In addition to my consulting work, I am also a PhD candidate within the [School of Architecture and Built Environment](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-architecture-and-built-environment) at [Deakin University](https://www.deakin.edu.au/) in Geelong, Australia. My research concerns how different people may have different connection to nature, and whether we need to design the built environment to engender such individual connections. Further information on my research is available [here](https://linktr.ee/humanenvironments).
+In addition to my consulting work, I am also a PhD candidate within the [School of Architecture and Built Environment](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-architecture-and-built-environment) at [Deakin University](https://www.deakin.edu.au/) in Geelong, Australia. My research investigates how different people experience natural and built environments, with implications for human well-being, built environment design practice, and policy frameworks. Further information on my research is available [here](https://linktr.ee/humanenvironments).
 
-## Python Coding
-
-A large, and unexpected, part of my PhD has been learning how to code using Python. I have used Python for conducting meta-analysis, designing and deploying my experiment, and data analysis. 
-
-My meta-analysis and eye-tracking data analysis work has resulted in creating original scripts which may be of general use to others. My eye-tracking work for the Tobii Pro Glasses 3 eliminated the need to use propietary software for the data analysis. It also included methods to recognise screens in the field of vision and account for head movements. This enabled eye tracking data to be mapped to images displayed on the screen, no matter how the user rotated or translated their head - eliminating the need for using an uncomfortable and awkward chin rest in the experimental procedure.
-
-I have not currently published any of this code, but I plan to after my PhD thesis. If you're interesting in having a look or getting involved, please get in touch! 
+Please have a look at my [GitHub](https://github.com/JasonGreymane) for work-in-progress Python projects related to my academic work, including packages for conducting meta-analyses and analysing data from the Tobii Pro Glasses 3 eye tracking headset.
 
 ## Academic Publications
 

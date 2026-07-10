@@ -1,7 +1,10 @@
-site_name: Jason Greymane (Gaekwad)
-site_url: https://github.com/JGaekwad/bio_page
+site_name: Jason Greymane
+site_url: https://jasongreymane.com
 nav:
   - Home: index.md
+  - Selected Thinking:
+      - Why upfront carbon should drive early project decisions: thinking/carbon.md
+      - Nature as urban infrastructure for mental health: thinking/nature.md
 
 theme:
   name: landing
@@ -18,17 +21,20 @@ theme:
       Compiled from markdown using [MkDocs](https://www.mkdocs.org/), hosted via [GitHub Pages](https://pages.github.com/). Theme by [Todd Parsons](https://toddparsons.co.uk).
   socials:
     - label: Email
-      link: mailto:humanenvironments@deakin.edu.au
+      link: mailto:jason.greymane@egis-group.com
       icon: at
     - label: LinkedIn
-      link: https://au.linkedin.com/in/jasongaekwad
+      link: https://au.linkedin.com/in/jasongreymane
       icon: [brands, linkedin]
     - label: ResearchGate
-      link: https://www.researchgate.net/profile/Jason-Gaekwad-2
+      link: https://www.researchgate.net/profile/Jason-Greymane
       icon: [brands, researchgate]
     - label: GitHub
-      link: https://github.com/JGaekwad
+      link: https://github.com/JasonGreymane
       icon: [brands, github]
     - label: ORCiD
       link: https://orcid.org/0000-0003-0273-9370
       icon: [brands, orcid]
+
+extra_css:
+  - assets/custom.css
